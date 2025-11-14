@@ -1,1 +1,1 @@
-# Cursor E-commerce Project 
+# Cursor E-commerce Project
