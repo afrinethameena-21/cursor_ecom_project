@@ -1,0 +1,1 @@
+# cursor_ecom_project
