@@ -1,0 +1,151 @@
+review_id,user_id,product_id,rating,review_text
+1,45,9,4,"Decent product, does the job."
+2,40,1,1,"Great product, highly recommend!"
+3,17,14,2,"Terrible experience, waste of money."
+4,47,39,5,Amazing! Exceeded my expectations.
+5,8,50,3,Excellent! Will buy again.
+6,20,8,1,Excellent! Will buy again.
+7,27,41,5,"Decent product, does the job."
+8,5,8,4,Love it! Perfect for my needs.
+9,35,2,5,Love it! Perfect for my needs.
+10,16,46,2,"Average product, nothing special."
+11,28,1,5,"Poor quality, would not recommend."
+12,16,37,4,"Not what I expected, disappointed."
+13,43,43,1,"Terrible experience, waste of money."
+14,24,5,5,"Terrible experience, waste of money."
+15,33,33,5,"Great product, highly recommend!"
+16,25,31,1,Amazing! Exceeded my expectations.
+17,24,17,1,"Poor quality, would not recommend."
+18,5,23,2,Good quality for the price.
+19,50,38,3,"Not what I expected, disappointed."
+20,3,23,5,"Poor quality, would not recommend."
+21,42,12,4,"Decent product, does the job."
+22,41,12,2,Good quality for the price.
+23,46,50,4,"Great product, highly recommend!"
+24,19,13,1,Excellent! Will buy again.
+25,3,21,3,"Terrible experience, waste of money."
+26,26,35,4,"Average product, nothing special."
+27,3,49,2,"Average product, nothing special."
+28,23,50,1,"Poor quality, would not recommend."
+29,18,8,3,Amazing! Exceeded my expectations.
+30,26,48,4,Amazing! Exceeded my expectations.
+31,22,12,4,"Decent product, does the job."
+32,24,34,3,Good quality for the price.
+33,47,28,1,Amazing! Exceeded my expectations.
+34,39,12,5,"Average product, nothing special."
+35,21,7,1,"Poor quality, would not recommend."
+36,43,19,3,"Decent product, does the job."
+37,39,46,4,"Not what I expected, disappointed."
+38,45,29,3,"Decent product, does the job."
+39,3,47,3,Love it! Perfect for my needs.
+40,28,18,1,Good quality for the price.
+41,43,41,4,"Poor quality, would not recommend."
+42,33,48,2,"Great product, highly recommend!"
+43,10,39,4,"Great product, highly recommend!"
+44,9,5,2,"Poor quality, would not recommend."
+45,24,25,5,"Great product, highly recommend!"
+46,39,10,4,"Poor quality, would not recommend."
+47,24,29,1,Love it! Perfect for my needs.
+48,9,34,3,Amazing! Exceeded my expectations.
+49,21,42,3,Excellent! Will buy again.
+50,8,2,2,"Decent product, does the job."
+51,34,25,5,Good quality for the price.
+52,17,50,3,"Decent product, does the job."
+53,14,40,3,"Decent product, does the job."
+54,13,8,2,Good quality for the price.
+55,29,12,4,Good quality for the price.
+56,44,21,3,Good quality for the price.
+57,36,35,3,"Average product, nothing special."
+58,11,46,2,"Poor quality, would not recommend."
+59,33,15,1,Excellent! Will buy again.
+60,9,16,4,"Great product, highly recommend!"
+61,24,36,5,"Poor quality, would not recommend."
+62,30,36,2,Love it! Perfect for my needs.
+63,6,5,3,Amazing! Exceeded my expectations.
+64,46,47,4,"Terrible experience, waste of money."
+65,27,50,4,Love it! Perfect for my needs.
+66,5,9,3,Good quality for the price.
+67,29,30,5,"Poor quality, would not recommend."
+68,9,50,5,Love it! Perfect for my needs.
+69,12,50,2,Amazing! Exceeded my expectations.
+70,33,4,1,"Terrible experience, waste of money."
+71,10,20,2,"Not what I expected, disappointed."
+72,21,46,2,"Poor quality, would not recommend."
+73,34,19,1,"Average product, nothing special."
+74,13,41,5,"Average product, nothing special."
+75,9,41,3,Love it! Perfect for my needs.
+76,35,6,5,"Not what I expected, disappointed."
+77,38,38,2,"Not what I expected, disappointed."
+78,43,40,5,"Poor quality, would not recommend."
+79,37,3,1,Good quality for the price.
+80,3,42,5,"Average product, nothing special."
+81,42,14,5,Amazing! Exceeded my expectations.
+82,40,41,1,"Decent product, does the job."
+83,41,35,3,"Average product, nothing special."
+84,31,16,4,"Average product, nothing special."
+85,30,5,1,"Not what I expected, disappointed."
+86,29,27,4,"Decent product, does the job."
+87,14,22,5,"Not what I expected, disappointed."
+88,21,46,3,"Poor quality, would not recommend."
+89,26,9,3,"Terrible experience, waste of money."
+90,36,7,3,Excellent! Will buy again.
+91,30,8,3,"Decent product, does the job."
+92,16,10,1,"Great product, highly recommend!"
+93,19,25,5,Amazing! Exceeded my expectations.
+94,16,11,3,Love it! Perfect for my needs.
+95,47,21,2,"Not what I expected, disappointed."
+96,32,33,4,"Decent product, does the job."
+97,20,32,1,Good quality for the price.
+98,26,33,4,Excellent! Will buy again.
+99,14,38,3,"Great product, highly recommend!"
+100,4,19,4,Love it! Perfect for my needs.
+101,42,44,4,"Average product, nothing special."
+102,35,1,1,Amazing! Exceeded my expectations.
+103,9,17,3,Amazing! Exceeded my expectations.
+104,24,3,4,"Great product, highly recommend!"
+105,37,36,2,"Poor quality, would not recommend."
+106,36,19,1,Amazing! Exceeded my expectations.
+107,33,29,5,"Average product, nothing special."
+108,40,44,5,Good quality for the price.
+109,9,7,4,"Poor quality, would not recommend."
+110,22,36,3,"Not what I expected, disappointed."
+111,13,39,5,Amazing! Exceeded my expectations.
+112,33,3,1,"Great product, highly recommend!"
+113,9,46,3,"Decent product, does the job."
+114,34,30,2,Love it! Perfect for my needs.
+115,33,9,3,Love it! Perfect for my needs.
+116,21,11,4,Love it! Perfect for my needs.
+117,48,20,5,"Poor quality, would not recommend."
+118,33,33,5,"Decent product, does the job."
+119,46,37,3,"Decent product, does the job."
+120,2,24,3,Good quality for the price.
+121,27,38,3,"Great product, highly recommend!"
+122,39,31,3,Love it! Perfect for my needs.
+123,37,15,1,Love it! Perfect for my needs.
+124,31,11,5,Love it! Perfect for my needs.
+125,50,25,2,Excellent! Will buy again.
+126,3,37,1,Excellent! Will buy again.
+127,2,29,3,Amazing! Exceeded my expectations.
+128,10,27,2,Amazing! Exceeded my expectations.
+129,33,50,5,"Decent product, does the job."
+130,48,47,1,"Not what I expected, disappointed."
+131,34,14,5,"Poor quality, would not recommend."
+132,43,31,5,Amazing! Exceeded my expectations.
+133,21,12,4,"Terrible experience, waste of money."
+134,22,35,3,"Average product, nothing special."
+135,40,31,2,Excellent! Will buy again.
+136,18,36,3,Excellent! Will buy again.
+137,20,50,3,Excellent! Will buy again.
+138,45,46,4,"Poor quality, would not recommend."
+139,31,23,5,"Average product, nothing special."
+140,19,8,5,"Terrible experience, waste of money."
+141,25,26,3,"Not what I expected, disappointed."
+142,19,3,3,Good quality for the price.
+143,23,29,3,"Decent product, does the job."
+144,14,13,5,"Average product, nothing special."
+145,36,45,3,"Not what I expected, disappointed."
+146,7,40,5,Excellent! Will buy again.
+147,16,4,5,Excellent! Will buy again.
+148,41,15,1,Good quality for the price.
+149,27,22,4,Good quality for the price.
+150,44,50,2,"Great product, highly recommend!"
